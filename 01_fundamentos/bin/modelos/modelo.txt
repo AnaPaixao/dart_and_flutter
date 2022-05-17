@@ -1,0 +1,1 @@
+MODELOS -> Representação exata do nosso json baseado em uma classe dart.

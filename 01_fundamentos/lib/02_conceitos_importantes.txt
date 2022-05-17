@@ -1,0 +1,4 @@
+01. Dart é orientado a objeto 
+02. Objetos são classes que representam uma abstracao de algo do mundo
+03. Realmente tudo é objeto, até o null
+04. Porém o Dart aceita a criação de variáveis e funções de nivel superior

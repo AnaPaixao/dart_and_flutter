@@ -1,0 +1,93 @@
+- ABSTRAÇÃO
+Assim como no nosso cotidiano nos abstraímos de certas dificuldades para
+atingirmos nossas metas, na programação orientada a objetos não poderia ser
+diferente. Afinal, programamos para automatizar processos do nosso dia a dia.
+
+Abstração quer dizer: "Processo pelo qual se isolam características, considerando
+os que tenham em comum certos grupos de objetos"
+
+A ideia que essa difinição transmite é que não devemos nos preocupar com características 
+menos importantes, ou seja, acidentais. Devemos, neste caso nos concentrar nos 
+aspectos essenciais.
+
+Não existe pior prática em programação do que a repetição de código. Isto leva
+A um código frágil, propício a resultados inesperados. Quanto mais códigos são 
+repetidos pela aplicação, mais difícil vai se tornando sua manutenção. Isso porque
+facilmente se pode esquecer de atualizar algum ponto que logo levará a uma inconsistência. 
+
+- ENCAPSULAMENTO 
+Uma analogia, com o mundo real. Quando alguém se consulta com um médico,
+por estar com um resfriado, seria desesperador se ao final da consulta o
+médico entregasse a seguinte receita.
+
+* 400mg de ácido acetilsalicílico
+* 1mg de maleato de dexclorfeniramina
+* 10mg de cloridrato de fenilefrina
+* 30mg de cafeína  
+- Misturar bem e ingerir com água. 
+
+Mais simples do que isso é o que os médicos realmente fazem: passam uma 
+cápsula onde todas estas substâncias já estão prontas. Ou seja, elas já vêm 
+encapsuladas.
+
+Com isso, não será preciso se preocupar em saber quanto e como as substâncias
+devem ser manipuladas para no final termos o comprimido que resolverá o problema.
+
+O que interessa é o resultado final, no caso, a cura do resfriado. A complexidade
+de chegar a essas medidas e como misturá-las não interessa. É um processo 
+que não precisa ser do conhecimento do paciente. 
+
+* 1 comprimido de Resfriol 
+- Ingerir com água.
+
+Essa mesma ideia se aplica na Orientação a Objetos. No caso, a complexidade
+que desejamos esconder é a de implementação de alguma necessidade. Com o encapsulamento,
+podemos esconder a forma como algo foi feito, dando a quem precisa apenas o 
+resultado gerado.
+
+Uma vantagem é que as mudanças se tornam transparentes, ou seja, quem usa
+algum processamento não será afetado quando seu comportamento interno mudar.
+
+Uma outra característica do encapsulamento é também a ocultação da informação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+Bin -> Pasta que contêm o arquivo inicial 
+Lib -> Onde ficam os arquivos que a gente cria 
+Test -> Nossos arquivos de teste 
+Gitignore -> Arquivos que vão ser ignorados quando subirmos esse projeto para um repositorio
+Analysis_options -> Onde configuramos o lint. O lint analisa o nosso código e propoe melhorias 
+Changelog -> Para anotarmos as atualizações do nosso projeto
+pubspeck.lock -> Um arquivo que o proprio projeto cria para pegar as dependencias do proprio projeto 
+pubspeck.yaml -> Um arquivo descritor do nosso projeto 
+readme -> Um resumo do nosso projeto, uma documentação.
+
+
+

@@ -1,0 +1,15 @@
+[
+    {
+        "nome": "Ana Paixão",
+        "idade": 22,
+        "isAluno": true,
+        "nomeCursos": ["Academia do Flutter", "Imersão GetX"]
+    }, 
+
+    {
+        "nome": "Ricardo Braga",
+        "idade": 30,
+        "isAluno": true,
+        "nomeCursos": ["Academia do Flutter", "Imersão GetX"]
+    }
+]
